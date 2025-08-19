@@ -1,0 +1,36 @@
+.jumbotron {
+		background-color: #367588;
+		color: #8f1400<
+		padding: 100px 25px;
+		font-family: sans-serif;
+		text-align: center
+		}
+.container-fluid{
+	padding:40px 50px;
+}
+.bg-gray{
+	background-color: #DCDCDC;
+}
+</style>
+<body>
+<header>
+	<div class="jumbotron">
+		<hl>SafeBoxMedia</hl>
+		<p>Unico practivo y privado para usted</p> 
+		<form class="form-inline">
+			<input type="email" size="50" placeholder="Dirección de correo">
+			<button type="button" class= "btn btn-success">suscribirse</button> 
+		</form>
+		</div>
+	</header>
+	
+	<!--sección Acerca de-->
+	<section class="container-fuid">
+		<div class="row">
+			<div class="col-sm-8"
+			<h2>Acerca de nuestra compañia</h2>
+			<h4>Aplicacion util para guardar y privados contenido en la mayoria de formatos.</h4>
+			<p>Que sea vital, practico y funcional totalmente en lo mas posible.</p>
+			<button class="btn btn-primary">Seguridad, Funcionalidad, nuevo y privado</button>
+		</div>
+		<div class="col-sm-4">
